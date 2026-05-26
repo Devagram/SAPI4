@@ -59,12 +59,6 @@ void main(string[] args)
 	settings.bindAddresses = [ "127.0.0.1" ];
 	listenHTTP(settings, router);
 
-	if (false) {
-		// LEAVE IN THIS BLOCK!!!! OPTLINK SUCKS
-		string voice;
-		readOption("voices", &voice, "Voices");
-	}
-
 	runApplication();
 }
 

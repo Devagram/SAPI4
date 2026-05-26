@@ -4,8 +4,7 @@
 		"User"
 	],
 	"dependencies": {
-		"vibe-d": "~>0.9.5",
-		"web-config": "~>1.1.0"
+		"vibe-d": "~>0.9.5"
 	},
 	"description": "MSSAM",
 	"copyright": "Copyright © 2017, User",
